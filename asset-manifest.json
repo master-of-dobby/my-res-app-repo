@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-res-app-repo/static/css/main.4cfbb9dc.css",
+    "main.js": "/my-res-app-repo/static/js/main.2277cbf3.js",
+    "static/js/787.ceed747c.chunk.js": "/my-res-app-repo/static/js/787.ceed747c.chunk.js",
+    "index.html": "/my-res-app-repo/index.html",
+    "main.4cfbb9dc.css.map": "/my-res-app-repo/static/css/main.4cfbb9dc.css.map",
+    "main.2277cbf3.js.map": "/my-res-app-repo/static/js/main.2277cbf3.js.map",
+    "787.ceed747c.chunk.js.map": "/my-res-app-repo/static/js/787.ceed747c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cfbb9dc.css",
+    "static/js/main.2277cbf3.js"
+  ]
+}
